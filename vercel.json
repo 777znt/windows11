@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/poc.exe",
-      "destination": "/file/poc.exe"
+      "destination": "public/file/Poc.exe"
     }
   ],
   "headers": [
